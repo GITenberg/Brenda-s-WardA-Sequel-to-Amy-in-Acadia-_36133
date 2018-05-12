@@ -1,0 +1,37 @@
+_repo: Brenda-s-WardA-Sequel-to-Amy-in-Acadia-_36133
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reed, Helen Leah
+    deathdate: 1926
+    gutenberg_agent_id: '37330'
+    url: http://www.gutenberg.org/2009/agents/37330
+description: ''
+gutenberg_issued: '2011-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boston (Mass.) -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+title: 'Brenda''s Ward
+
+  A Sequel to ''Amy in Acadia'''
+url: http://www.gutenberg.org/ebooks/36133
